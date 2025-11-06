@@ -30,21 +30,21 @@
 
 ## 📁 Project Structure
 
-📦 HANA_STUDY
-├── 📁 assets # README 배너 이미지
-│ ├── hana-header.svg
-│ └── hana-footer.svg
+📦 **HANA_STUDY**
+├── 📁 **assets**              # README 배너 이미지  
+│   ├── hana-header.svg  
+│   └── hana-footer.svg  
 │
-├── 📁 images # 스크린샷 / 미리보기 이미지
-│ └── preview.png
+├── 📁 **images**              # 스크린샷 / 미리보기 이미지  
+│   └── preview.png  
 │
-├── 📁 CRA # create-react-app 기반 실습
-│ └── cra-react-app
+├── 📁 **CRA**                 # create-react-app 기반 실습  
+│   └── cra-react-app  
 │
-├── 📁 VITE # Vite 기반 실습
-│ └── vite-react-app
+├── 📁 **VITE**                # Vite 기반 실습  
+│   └── vite-react-app  
 │
-└── 📁 react-2day-assignment # 2일차 과제 백업 및 학습 기록
+└── 📁 **react-2day-assignment**   # 2일차 과제 백업 및 학습 기록
 
 
 ---
