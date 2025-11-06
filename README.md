@@ -87,16 +87,15 @@
 ## 🔥 Contribution Graph (Grass)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=ffffff&color=FF8FAB&line=FFB3D1&point=FFCCE5&area=true&hide_border=true&custom_title=💜Hana's%20Lovely%20Grass💜" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=0f0b16&color=B794F4&line=FF8FAB&point=E2D9FF&area=true&hide_border=true&custom_title=💜%20Kuromi%20Contribution%20Graph" width="95%">
 </p>
+
 
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana880922&layout=compact&title_color=C084FC&text_color=A78BFA&bg_color=FFFFFF&hide_border=true" 
-    width="45%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana880922&layout=compact&title_color=A78BFA&text_color=E2D9FF&bg_color=0f0b16&hide_border=true" height="165">
 </p>
+
 
 ---
 
