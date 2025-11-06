@@ -31,7 +31,9 @@
 ## 📁 Project Structure
 
 📦 **HANA_STUDY**
-├── 📁 **assets**                    # README 배너 이미지  
+
+
+📁 **assets**                    # README 배너 이미지  
 │   ├── hana-header.svg  
 │   └── hana-footer.svg  
 │
