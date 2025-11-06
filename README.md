@@ -95,7 +95,8 @@
 </p>
 
 
-![kuromi7 gif](https://raw.githubusercontent.com/hana880922/HANA_STDUY/main/imges/kuromi7.gif)
+<!-- 🎀 쿠로미 움짤 --!>
+<img src ="https://raw.githubusercontent.com/hana880922/HANA_STDUY/main/imges/kuromi7.gif" width="200">
 
 ---
 
