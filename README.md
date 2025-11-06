@@ -2,11 +2,8 @@
 <p align="center">
   <img src="./assets/hana-header.svg" width="100%">
 </p>
-
 <br/>
-
 <div align="center">
-
 # 🌸 HANA STUDY  
 ### Front-end Developer Learning Portfolio
 
@@ -111,6 +108,14 @@
 
 ---
 
+<!-- ✅ 하단 푸터 배너 -->
+<p align="center">
+  <img src="./assets/hana-footer.svg" width="100%">
+</p>
+
+<p align="center"><sub>💜 꾸준히 성장하는 HANA의 개발 기록 💜</sub></p>
+
+
 ## 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -122,14 +127,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-
----
-
-<!-- ✅ 하단 푸터 배너 -->
-<p align="center">
-  <img src="./assets/hana-footer.svg" width="100%">
-</p>
-
-<p align="center"><sub>💜 꾸준히 성장하는 HANA의 개발 기록 💜</sub></p>
-
-
