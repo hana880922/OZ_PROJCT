@@ -100,6 +100,14 @@
   />
 </p>
 
+
+## 🔥 Contribution Graph (Grass)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&theme=github-low-contrast&area=true&hide_border=true&color=8a2be2&line=8a2be2&point=8a2be2" width="95%">
+</p>
+
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana880922&layout=compact&title_color=C084FC&text_color=A78BFA&bg_color=FFFFFF&hide_border=true" 
