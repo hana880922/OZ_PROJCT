@@ -21,16 +21,16 @@
  📦 HANA_STUDY  
 
   📁 assets               
-    ├─ hana-header.svg  
-    └─ hana-footer.svg  
+    ├ hana-header.svg  
+    └ hana-footer.svg  
   📁 images                
-    └─ preview.png  
+    └ preview.png  
   
   📁 CRA                     
-    └─ cra-react-app  
+└ cra-react-app  
   
   📁 VITE                    
-    └─ vite-react-app  
+ └ vite-react-app  
   
   📁 react-2day-assignment   
 ```
@@ -40,41 +40,41 @@
 ## ✅ What’s Inside?
 
 ### 💟 1) React 기본 개념 학습
-- 컴포넌트 구조  
-- Props / State  
-- JSX 문법  
-- 함수형 & 클래스형 컴포넌트 변환 연습  
+ 컴포넌트 구조  
+ Props / State  
+ JSX 문법  
+ 함수형 & 클래스형 컴포넌트 변환 연습  
 
 ### 💟 2) CRA & VITE 비교 학습
-- Webpack vs ESBuild  
-- 프로젝트 생성 속도 비교  
-- 폴더 구조 및 개발환경 차이  
+ Webpack vs ESBuild  
+ 프로젝트 생성 속도 비교  
+ 폴더 구조 및 개발환경 차이  
 
 ### 💟 3) Git / GitHub 실습
-- 배너 삽입  
-- README 디자인  
-- 폴더 구조 정리  
-- commit / push / pull 경험  
+ 배너 삽입  
+ README 디자인  
+ 폴더 구조 정리  
+ commit / push / pull 경험  
 
 ---
 
 ## ✨ Goals
 
-- 꾸준한 프론트엔드 학습 기록  
-- React 이해도 높이기  
-- Vite 개발환경 익숙해지기  
-- 파일 및 구조 정리 능력 향상  
-- GitHub 포트폴리오 풍 저장소 만들기  
+ 꾸준한 프론트엔드 학습 기록  
+ React 이해도 높이기  
+ Vite 개발환경 익숙해지기  
+ 파일 및 구조 정리 능력 향상  
+ GitHub 포트폴리오 풍 저장소 만들기  
 
 ---
 
 ## 🌱 Roadmap
 
-- 🔲 React Hooks (useState, useEffect 등) 심화  
-- 🔲 React Router 학습  
-- 🔲 컴포넌트 재사용성 학습  
-- 🔲 미니 프로젝트 제작  
-- 🔲 Vercel 배포 경험 쌓기  
+ 🟣 React Hooks (useState, useEffect 등) 심화  
+ 🟣 React Router 학습  
+ 🟣 컴포넌트 재사용성 학습  
+ 🟣 미니 프로젝트 제작  
+ 🟣 Vercel 배포 경험 쌓기  
 
 ---
 
@@ -95,12 +95,7 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana880922&layout=compact&title_color=C084FC&text_color=A78BFA&bg_color=FFFFFF&hide_border=true" 
-    width="45%"
-  />
-</p>
+<img src="/Users/hanawon/Desktop/korumi/kuromi7.gif">
 
 ---
 
