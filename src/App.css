@@ -1,0 +1,122 @@
+/* 전체 컨테이너 */
+.container {
+  width: 420px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 16px;
+  background: #f5f0ff; /* 연보라 배경 */
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  border: 2px solid #2e2e2e; /* 검정 테두리 */
+}
+
+/* 박스 가운데 */
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;   /* 가로 중앙 */
+  align-items: center;       /* 세로 중앙 */
+  background: #ffffff;
+}
+
+/* 헤더 */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 26px;
+  font-weight: 700;
+  color: #2e2e2e;
+  text-shadow: 0 2px #d0b0ff;
+}
+
+/* 입력 영역 */
+.input-area {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid #b799ff;
+  background: #ffffff;
+  font-size: 14px;
+}
+
+/* Todo 리스트 */
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px dashed #b796ff;
+}
+
+.todo-text {
+  flex: 1;
+  font-size: 15px;
+  color: #2e2e2e;
+}
+
+/* 버튼 공통 */
+.btn {
+  padding: 6px 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  transition: 0.15s;
+}
+
+/* 쿠로미 컬러 세트 */
+.btn.add {
+  background: #c299ff;
+}
+.btn.add:hover {
+  background: #b17afc;
+}
+
+.btn.edit {
+  background: #ffb5e2;
+  color: #2e2e2e;
+}
+.btn.edit:hover {
+  background: #ff97d8;
+}
+
+.btn.save {
+  background: #8e6cff;
+}
+.btn.save:hover {
+  background: #6c4bff;
+}
+
+.btn.delete {
+  background: #2e2e2e;
+}
+.btn.delete:hover {
+  background: #000000;
+}
+
+/* 수정 입력창 */
+.edit-input {
+  flex: 1;
+  padding: 6px;
+  border-radius: 6px;
+  border: 2px solid #c7aaff;
+}
+
+/* 체크박스 꾸미기 */
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: #c299ff;
+}
